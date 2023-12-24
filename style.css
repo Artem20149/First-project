@@ -1,0 +1,28 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 20px;
+}
+
+
+button {
+    width: 70px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-radius: 3px; 
+}
+
+.text {
+    background-color: aqua;
+}
+.tt {
+    color: white;
+    background-color: black;
+}
+.rr {
+    color: black;
+    background-color: yellow;
+}
